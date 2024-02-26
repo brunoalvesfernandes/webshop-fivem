@@ -1,0 +1,29 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "Site para comprar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "fs": "^0.0.1-security",
+    "html": "^1.0.0",
+    "mercadopago": "^2.0.7",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "preferences": "^2.0.2"
+  }
+}
